@@ -18,7 +18,7 @@ import {
 } from 'react-native';
 
 import {Colors} from 'react-native/Libraries/NewAppScreen';
-import PrinterScreen from './print';
+import PrinterScreen from './peinterScreen';
 
 type SectionProps = PropsWithChildren<{
   title: string;
